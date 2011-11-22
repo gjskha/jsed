@@ -1,0 +1,17 @@
+textarea { 
+    font-family: courier, monospace;
+    width: 100%;
+    height: 200px;
+ }
+
+.quote { 
+    margin-left: 10px; 
+    margin-right: 10px; 
+    padding-left: 5px; 
+    border-left: 2px dotted #666666;
+    background-color: #cccccc;
+}
+
+#preview_page { 
+    border: 1px dotted #666666; 
+}
