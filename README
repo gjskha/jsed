@@ -1,0 +1,4 @@
+jsed is a lightweight alternative to fckeditor and the like.  This has been
+tested on IE, FF 3.x (linux), and Opera 11 (linux).  I don't know how it will
+work on anything else. There are a couple of small things that need to be
+ironed out.
