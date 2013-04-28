@@ -68,7 +68,7 @@ function get_caret(obj) {
 }
 
 /* render the editor buttons on top of the textarea */
-function edToolbar(obj) {
+function toolbar(obj) {
     document.write("<div class=\"toolbar\">");
     /* strong */
     document.write("<button class=\"btn_bold\" type=\"button\" name=\"btnBold\" title=\"Bold\" onClick=\"tagify('[b]','[/b]','" + obj + "')\">Bold</button>");
